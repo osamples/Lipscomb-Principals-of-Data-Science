@@ -21,3 +21,6 @@ Lipscomb University Masters of Science in Data Science
       techniques, tools, and standards
       
    
+  Deliverables:
+    - acfootball_ocs.ipynb : Example of Web Scraping Skills and Data Wrangling
+    - re_ocs.ipynb : Example of Regular Expression Manipulation
