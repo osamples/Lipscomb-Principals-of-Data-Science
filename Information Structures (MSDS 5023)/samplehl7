@@ -1,0 +1,20 @@
+MSH|^~\&|RLY_NB|RILEY|NEWBORN|REGEN|20051202070251||ORU^R01|||2.3
+PID|||72360601||Doe^John||20050908155100|M|Jones|White||||||||||||Non Hispanic
+NK1||Doe^Jane|Mother|123 MAIN STREET^^GREENWOOD^IN^46143^^^^JOHNSON|3175350809|||||||||||19791116
+PV1|||||||^SMITH^LYNETTEOBR|1|K049860^ISDHNB|200509220256^RLY_NB|^New Born Screening^L|||20050919201500|||||||20050920|||||||||||||||K049860&ISDHNB^97123&RLY_NB|||||HCZLR|XYZ STREET^SUITE 100^SHELBYVILLE^IN^46176|^^267||317/398-0000
+OBX|1|NM|14248^Weight of Newborn Baby^R||3568|g
+OBX|2|NM|142227^Birth Order^R||A
+OBX|3|NM|^Birth hospital code^L||010
+OBX|4|ST|^Type of Sample^L||Repeat
+OBX|5|DT|^Date and time of first protein feed^L||20050801023000
+OBX|6|ST|^Type of protein feed^L||LACTOSE
+OBX|7|ST|^Was the baby premature?^L||No
+OBX|8|ST|^Was the baby transfused?^L||Yes
+OBX|9|DT|^Date Baby Transfused^L||20050911
+OBX|10|NM|5081^Gestation Age^R||40|weeks
+OBX|11|DT|^Date and Time mailer was printed^L||20050921121320
+OBX|12|ST|^Normal^L||Yes
+OBX|13|TX|TS-F-01-002^Endocrine Disorders^L||Borderline~The screen for Congenital Hypothyroidism is abnormal.  Further follow-up is necessary to evaluatethis infant.||< 25 mcIU/ml|||||||20050916151000
+OBX|14|TX|GA-F-01-024^Galactosemia^L||Invalid~The GALT could not be evaluated because the infant was transfused with RBCs. The total Galactose was used to evaluate this infant for Galactosemia.||> 3.0 u/gm Hgb|||||||20050919201500
+OBX|15|TX|TG-C-01-002^Galactosemia^L||Borderline~The Galactosemia screen is abnormal.  Further follow-up is necessary to evaluate this infant.||< 7.0 mg/dL|||||||20050919201500
+OBX|16|ST|^Hearing not screened^L||N
