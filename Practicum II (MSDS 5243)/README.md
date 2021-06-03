@@ -1,7 +1,7 @@
 # Lipscomb Univeristy Master's of Science in Data Science
 ## Practicum II
 
-Delivered on an end-to-end machine learning research solution. The topic was `Predicting Number of Personnel to Deploy for Wildfire Containment`. This paper was submitted and accepted the International Conference on Data Science (ICData) for publication in a Research Book, Transactions on Computational Science & Computational Intelligence on May 23, 2021. I have provided the manuscript as well as the abstract below.
+Delivered on an end-to-end machine learning research solution. The topic was `Predicting Number of Personnel to Deploy for Wildfire Containment`. This paper was submitted and accepted by the International Conference on Data Science (ICData) for publication in a Research Book, Transactions on Computational Science & Computational Intelligence on May 23, 2021. I have provided the manuscript as well as the abstract below.
 
 ### Abstract:
 
