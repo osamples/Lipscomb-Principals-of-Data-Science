@@ -1,6 +1,6 @@
 # Lipscomb University - Masters of Science in Data Science
 
-## Predictive Analysis and Data Mining (MSDS 5203)
+## Predictive Analysis and Data Mining (MSDS 5213)
 
 Taught by Dr. Aize Cao
 
