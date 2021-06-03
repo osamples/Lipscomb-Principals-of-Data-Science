@@ -1,6 +1,6 @@
 # Lipscomb University Masters of Science in Data Science (2019 - 2020) Olivia Sanders
 
-*This repository details the learning path and outputs I delivered on throughout my data science graduate degree.
+*This repository details the learning path and outputs I delivered on throughout my data science graduate degree.*
 
 MSDS 5013 - Principles of Data Science
 
